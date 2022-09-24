@@ -41,6 +41,6 @@ int main()
     vector<int> n;
     int i=0,j=0;
     int len=sizeof(arr)/sizeof(int);
-    int sum=2.5;
+    int sum=5;
     fun(i,arr,n,len,sum,j);
 }
